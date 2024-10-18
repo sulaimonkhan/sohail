@@ -25,3 +25,16 @@ echo -e "\e[33mHello World in Yellow color\e[0m"
 echo -e "\e[34mHello World in Blue color\e[0m"
 echo -e "\e[35mHello World in Magenta color\e[0m"
 echo -e "\e[36mHello World in Cyan color\e[0m"
+
+
+## Exit status
+
+# status of the command , it tuurns a number determing the status Number range from 0-255 
+
+# 0 - Universal SUCCESS
+
+# 1-255 partial SUCCESS /partial FAILURE /failure
+# There depends up on the command we are using
+
+# we will get the status from a variable as ?, to acess this value we give $?
+
