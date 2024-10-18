@@ -17,9 +17,9 @@ sample
 
 
 sample () {
-    echo First Argumnets -$1
-    echo All Arguments -$*
-    echo Arguments count -$#
+    echo First Argumnets - $1
+    echo All Arguments - $*
+    echo Arguments count - $#
 }
 
 sample "Hello World" abc 123
