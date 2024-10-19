@@ -38,3 +38,7 @@ echo -e "\e[36mHello World in Cyan color\e[0m"
 
 # we will get the status from a variable as ?, to acess this value we give $?
 
+``` shell
+exit 0 # SUCCESS
+exit 1 # FAILURE with status 1
+```
