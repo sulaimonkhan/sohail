@@ -3,7 +3,7 @@
 # For loop
 
 for fruits in apple banana orange; do
-  echo fruit Name - $fruit
+  echo Fruit Name - $fruit
   #
   #
 done  
