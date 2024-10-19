@@ -21,3 +21,10 @@ echo aws Trainer - $trainer
 # src=x.txt
 # dest=y.txt
 # cp $src $dest
+
+
+# Command substitution
+# variable=$(command)
+# Above command output will go to variable 
+
+date=$(date)

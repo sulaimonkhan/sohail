@@ -42,3 +42,12 @@ echo -e "\e[36mHello World in Cyan color\e[0m"
 exit 0 # SUCCESS
 exit 1 # FAILURE with status 1
 ```
+
+
+
+# Four pillars of any scrpiting
+
+# 1. variables
+# 2. Functions
+# 3. conditions
+# 4 . Loops
