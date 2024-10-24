@@ -64,4 +64,4 @@ case $fruit in
   banana)
     echo Available Quantity - 200
     ;;
-esac
+esac 
