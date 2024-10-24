@@ -41,7 +41,7 @@
 
 
 
-# 1.HOW TO DECLARE CONDITIONS:- 44:59 (SESSION 15 )
+
 
 # We have one more condition  - case
 # case $var in
